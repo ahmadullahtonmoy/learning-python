@@ -1,3 +1,4 @@
+# 2
 # this is how to code an input in python
 input()
 
