@@ -1,1 +1,1 @@
-MY_NAME = "Ahmadullah Tonmoy"
+USER_NAME = "Ahmadullah Tonmoy"
