@@ -5,4 +5,4 @@ import constant
 chicken_price = 15
 fried_rice_price = 10
 
-print("This is Tom's Age:",constant.TOM_AGE)
+print("This is User Name:",constant.MY_NAME)
