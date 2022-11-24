@@ -10,3 +10,8 @@ print("User Phone Number:",userPhonNumber)
 
 # multiple value assign in multiple variables in one line
 
+apple_price , orange_price , bananaPrice = 50 , 40 , 30
+
+print("Apple Price:",apple_price)
+print("Orange Price:",orange_price)
+print("Banana Price:",bananaPrice)
