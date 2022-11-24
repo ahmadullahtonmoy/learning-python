@@ -25,3 +25,13 @@ applePrice = orangePrice = bananaPrice = 40
 print("Apple Price:",applePrice)
 print("Orange Price:",orangePrice)
 print("Banana Price:",bananaPrice)
+
+
+# in python array called by list
+# unpacking a list value in variables
+
+colors = ["White","Red","Black","Blue","Purple","Pink"]
+
+a , b , c , d , e , f = colors
+
+print(a , b , c , d , e , f)
