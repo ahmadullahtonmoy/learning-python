@@ -5,5 +5,4 @@ z = float(3)  # z will be 3.0
 print(z)
 
 # data type check
-
 print(type(y))
